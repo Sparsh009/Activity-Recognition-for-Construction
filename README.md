@@ -75,7 +75,7 @@ Distributed under the MIT License. See LICENSE for more information.
 
 Authors
 
-Sparsh Srivastava - Initial work - Sparsh009
+Sparsh - Initial work - Sparsh009
 Acknowledgments
 
 Thanks to everyone whose libraries were used in this project.
